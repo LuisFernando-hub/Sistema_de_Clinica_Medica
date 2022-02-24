@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/11 20:22:27.000.045,=C:\Users\luisl\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 20:22:58.000.840,C:\Users\luisl\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\luisl\Desktop\SistemaClinica\unitPrincipal.pas</Transaction>
+    <Transaction>2022/01/11 20:22:58.000.840,C:\Users\luisl\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\luisl\Desktop\SistemaClinica\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/01/11 20:23:07.000.740,C:\Users\luisl\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\luisl\Desktop\SistemaClinica\Clinica.dproj</Transaction>
+    <Transaction>2022/01/11 20:42:36.000.629,=C:\Users\luisl\Desktop\SistemaClinica\Unit2.pas</Transaction>
+    <Transaction>2022/01/11 20:46:41.000.196,=C:\Users\luisl\Desktop\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2022/01/11 20:47:25.000.022,C:\Users\luisl\Desktop\SistemaClinica\Unit2.dfm=C:\Users\luisl\Desktop\SistemaClinica\unitCadPacientes.dfm</Transaction>
+    <Transaction>2022/01/11 20:47:25.000.022,C:\Users\luisl\Desktop\SistemaClinica\Unit2.pas=C:\Users\luisl\Desktop\SistemaClinica\unitCadPacientes.pas</Transaction>
+    <Transaction>2022/01/11 20:47:36.000.120,C:\Users\luisl\Desktop\SistemaClinica\Unit3.dfm=C:\Users\luisl\Desktop\SistemaClinica\unitCadAgendamentos.dfm</Transaction>
+    <Transaction>2022/01/11 20:47:36.000.120,C:\Users\luisl\Desktop\SistemaClinica\Unit3.pas=C:\Users\luisl\Desktop\SistemaClinica\unitCadAgendamentos.pas</Transaction>
+    <Transaction>2022/01/11 21:09:37.000.719,=C:\Users\luisl\Desktop\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:18:14.000.197,C:\Users\luisl\Desktop\SistemaClinica\unitDM.pas=C:\Users\luisl\Desktop\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:18:14.000.197,C:\Users\luisl\Desktop\SistemaClinica\unitDM.dfm=C:\Users\luisl\Desktop\SistemaClinica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
